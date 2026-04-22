@@ -1,0 +1,4 @@
+Attrition_Risk_Level,Employee_ID_count,Age_mean,Age_std,Monthly_Income_mean,Monthly_Income_std,Job_Satisfaction_mean,Job_Satisfaction_std,Work_Life_Balance_mean,Work_Life_Balance_std,Years_at_Company_mean,Years_at_Company_std
+0,7500,32.94,7.75,8083.83,1861.95,3.26,0.75,2.94,0.83,4.36,4.78
+1,5250,34.52,7.3,8032.0,1875.28,2.59,0.96,2.47,0.89,7.2,5.39
+2,2250,39.98,6.29,8897.17,1816.52,2.48,0.98,2.42,0.91,14.23,5.55
